@@ -4,7 +4,7 @@
 
 # Hey, I'm JOSHUA MAZAZA!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Engineering%20Student%20%7C%20F...;Diving%20into%20Mobile%20Application%20D...;Based%20in%20Ndola%2C%20Zambia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines= Software%20Engineering%20Student%20%7C%20F...;Diving%20into%20Mobile%20Application%20D...;Based%20in%20Ndola%2C%20Zambia)](https://git.io/typing-svg)
 
 </div>
 
