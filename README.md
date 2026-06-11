@@ -13,8 +13,8 @@
 I'm a third-year Software Engineering student at Zambia University of Technology, passionate about crafting full-stack applications that solve real-world problems. With a solid foundation in TypeScript, Next.js, and more, I'm eager to bring my skills to an internship where I can learn and contribute to innovative projects.
 
 - 🏢 Working at **Zambia University of Technology (ZUT)** in **Ndola, Zambia**
-- 🌱 Currently learning **Diving into Mobile Application Development, mastering Object-Oriented Programming, and exploring Advanced Database Systems to broaden my expertise.**
-- 💬 Ask me about **Full-stack development, software engineering processes, and the latest TypeScript and JavaScript frameworks.**
+- 🌱 Currently learning **Diving into Full-stack web development, Software Engineering Management and exploring Software Engineering Testing to broaden my expertise.**
+- 💬 Ask me about **Full-stack development, software engineering processes and JavaScript frameworks.**
 - ⚡ Huge Tottenham Hotspur fan🤍
 
 ## 🛠️ Tech Stack
